@@ -3,4 +3,7 @@
 ## Integrantes
 
 Felipe Correia - 18/0113259
+
 Rafael Berto Pereira - 18/0108344
+
+Nathan Fernandes Sales de serra - 17/0112004
