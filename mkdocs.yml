@@ -1,3 +1,6 @@
 site_name: Interação Humano Computador Grupo 5
-
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
 
