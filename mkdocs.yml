@@ -7,4 +7,5 @@ repo_url: "https://github.com/Interacao-Humano-Computador/2020.2-Grupo5"
 nav:
     - Home: index.md
     - About: about.md
+    - entrega1: entrega1.md
 theme: lux
