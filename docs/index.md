@@ -1,8 +1,5 @@
 # **Grupo 5 de IHC**
 
-
-
-
 <h2>O site avaliado será o: </h2>
 <https://www.berkshirehathaway.com/>
 
