@@ -20,7 +20,7 @@
 
 ####Persona 1:
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Archibald_Stuarti.jpg)
 
 Identidade: Archibald Stuarti - 58 anos
 
@@ -85,7 +85,7 @@ Expectativas:
 
 ####Persona 4: 
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Rogers.jpg)
 
 Identidade: Rogers Sandrey Siqueira - 45 anos
 
@@ -106,7 +106,7 @@ Expectativas: Espera melhorar a área de marketing e visual da empresa.
 
 ####Persona 5:
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/engenheira.jpeg)
 
 Identidade: Fernanda - 34 anos
 
