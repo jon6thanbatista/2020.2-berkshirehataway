@@ -57,6 +57,7 @@ Relacionamentos: Outros pequenos investidor.
 Requisitos: corretora de investimentos. 
 
 Expectativas: Retorno do investimento em 5 anos (médio prazo).
+
 <br>
 
 ####Mário José Silva  
@@ -78,6 +79,7 @@ Relacionamentos: Conhece pessoa que já contratam os serviços e investem na emp
 Requisitos: Ter informações claras sobre projeções da empresa.
 
 Expectativas: Melhora na busca de informações sobre a empresa.
+
 <br>
 
 ####Rogers Sandrey Siqueira  
@@ -99,6 +101,7 @@ Relacionamentos: Tem contato os clientes e faz a ponte com os cargos mais altos.
 Requisitos: Precisa de um salário para trabalhar e das tendências de marketing.
 
 Expectativas: Espera melhorar a área de marketing e visual da empresa.
+
 <br>
 
 ####Fernanda Ramalho  
@@ -120,6 +123,7 @@ Relacionamentos: Conhece pessoas que investem na empresa.
 Requisitos: Ter um funcionário para atender, um serviço para ser prestado etc.
 
 Expectativas: Tem o objetivo de melhorar o filtro de pessoas que procuram o site. 
+
 <br>
 
 ####Roger Junior:  
@@ -141,8 +145,8 @@ Relacionamentos: Já investe na Berkshire Hathaway
 Requisitos: Uma lista com os associados da Berkshire Hathaway e informações sobre as mesmas
 
 Expectativas: Encontrar boas empresas para investir
-<br>
 
+<br>
 -------------------------------------------------
 ##Análise de tarefas
 <br>
@@ -166,7 +170,6 @@ Expectativas: Encontrar boas empresas para investir
 * Operação: é especificada pelas circunstâncias nas quais objetivos é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento(feedback);
 
 * Ação: pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final;
-
 <br>
 
 #### 1.3 - Análise hierárquica de tarefas das personas
