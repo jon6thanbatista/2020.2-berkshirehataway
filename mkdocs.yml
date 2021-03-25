@@ -1,5 +1,4 @@
 site_name: 5inko
-ite_url: https://grupo5inko.com
 site_author: Grupo 5 IHC 2020.2
 site_description: "Um site para citarmos as melhorias so site da empresa BerkshireHataway"
 
@@ -8,4 +7,3 @@ nav:
     - Sobre: sobre.md
     - Entrega1: entrega1.md
     - Entrega2: entrega2.md
-theme: lux

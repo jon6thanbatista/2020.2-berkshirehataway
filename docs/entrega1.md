@@ -190,3 +190,4 @@ Objetivos/operação       | Problemas e recomendações
 -------------------------------------------------
 ##Referências
 <br>
+Imagens retiradas do FreePick e Canvas.
