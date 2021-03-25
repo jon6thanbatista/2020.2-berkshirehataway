@@ -102,16 +102,6 @@ Meta aplicada no projeto: Oferecer suportes da interface que ajudem a memorizaç
 #####Objetivos do guia de estilo
 Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem como objetivo definir as regras que guiarão o design da interface da aplicação, no que diz respeito à interação com o usuário. Os padrões estabelecidos neste Guia servem para certificar que a consistência do design será mantida em todo o projeto.
 
-    
-* layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
-
-	???
-
-* tipografia e seu uso em diálogos, formulários e relatórios:
-
-	Fonte Times New Roman - tamanho 12
-	Letra Azul Escuro ou preto
-
 * simbolismo:
 
 	![]()
@@ -125,6 +115,11 @@ Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem 
 
 	Janelas:
 		![]()
+		
+* tipografia e seu uso em diálogos, formulários e relatórios:
+
+	Fonte Times New Roman - tamanho 12
+	Letra Azul Escuro ou preto
 
 
 
