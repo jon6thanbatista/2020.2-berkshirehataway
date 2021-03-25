@@ -106,7 +106,7 @@ Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem 
 
 	Home page:
 		![]()
-		
+
 	Janelas:
 		![]()
 

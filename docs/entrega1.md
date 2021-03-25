@@ -1,7 +1,6 @@
 #Perfil do usuário, Personas e Análise de tarefas
 
 -------------------------------------------------
-
 ##Perfil do usuário
 <br>
 <h6>-Idade: 25-60</h6>
