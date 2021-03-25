@@ -7,4 +7,5 @@ nav:
     - Home: index.md
     - Sobre: sobre.md
     - Entrega1: entrega1.md
+    - Entrega2: entrega2.md
 theme: lux

@@ -2,7 +2,7 @@
 
 -------------------------------------------------
 
-###Perfil do usuário
+##Perfil do usuário
 <br>
 <h6>-Idade: 25-60</h6>
 <br>
@@ -14,13 +14,12 @@
 <br>
 -------------------------------------------------
 
-###Personas  
-
+##Personas  
 <br>
 
-####Persona 1:
+####Archibald Stuarti  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Archibald_Stuarti.jpg)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Archibald.jpg)
 
 Identidade: Archibald Stuarti - 58 anos
 
@@ -40,9 +39,9 @@ Expectativas: Retorno investimento em 10 anos.
   
 <br>
 
-####Persona 2: 
+####Cláudia Limeira  
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Cl%C3%A1udia.jpg)
 
 dentidade: Cláudia Limeira - 32 anos
 
@@ -61,9 +60,9 @@ Requisitos: corretora de investimentos.
 Expectativas: Retorno do investimento em 5 anos (médio prazo).
 <br>
 
-####Persona 3: 
+####Mário José Silva  
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/M%C3%A1rio%20Jos%C3%A9.jpg)
 
 Identidade: Mário José Silva - 38 
 
@@ -82,7 +81,7 @@ Requisitos: Ter informações claras sobre projeções da empresa.
 Expectativas: Melhora na busca de informações sobre a empresa.
 <br>
 
-####Persona 4: 
+####Rogers Sandrey Siqueira  
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Rogers.jpg)
 
@@ -103,9 +102,9 @@ Requisitos: Precisa de um salário para trabalhar e das tendências de marketing
 Expectativas: Espera melhorar a área de marketing e visual da empresa.
 <br>
 
-####Persona 5:
+####Fernanda Ramalho  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/engenheira.jpeg)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Fernanda.jpg)
 
 Identidade: Fernanda Ramalho - 34 anos
 
@@ -121,13 +120,12 @@ Relacionamentos: Conhece pessoas que investem na empresa.
 
 Requisitos: Ter um funcionário para atender, um serviço para ser prestado etc.
 
-Expectativas: Tem o objetivo de melhorar o filtro de pessoas que procuram o site.
-  
+Expectativas: Tem o objetivo de melhorar o filtro de pessoas que procuram o site. 
 <br>
 
-####Persona 6:  
+####Roger Junior:  
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Roger%20Junior.jpg)
 
 Identidade: Roger Junior - 26 anos
 
@@ -147,8 +145,7 @@ Expectativas: Encontrar boas empresas para investir
 <br>
 
 -------------------------------------------------
-
-###Análise de tarefas
+##Análise de tarefas
 <br>
 
 #### 1.1 - Introdução
@@ -186,3 +183,11 @@ Objetivos/operação       | Problemas e recomendações
 2.1 Escolher ano desejado da informação |Problema: Após escolher o ano o usuário irá abrir um pdf contendo a informação. Recomendação: Deixar informações no próprio site.
 3. Acessar Corporate Governance 1>2 | Problema: Não é possivel fazer busca avançada. Recomendação: Adicionar busca avançada
 3.1. Acessar Corporate Governance Guideline | Problema: O usuário irá receber um pdf com as informações desejadas. Recomendação: Abrir informação no próprio site.
+<br>
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/hta.jpeg)
+<br>
+
+-------------------------------------------------
+##Referências
+<br>
