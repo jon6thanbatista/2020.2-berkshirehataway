@@ -112,16 +112,16 @@ Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem 
 
 * visualização de informação: design de gráficos, diagramas e mapas;
 
-	Home page:
-	![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/homepage.jpeg)
+Home page:
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/homepage.jpeg)
 
-	Janelas:
-	![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/janelas.jpeg)
+Janelas:
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/janelas.jpeg)
 
 * tipografia e seu uso em diálogos, formulários e relatórios:
 
 	Fonte Times New Roman - tamanho 12
-	
+
 	Letra Azul Escuro ou preto
 
 
