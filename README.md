@@ -1,4 +1,4 @@
-# 2020.2-Grupo5
+# 2020.2-berkshirehataway
 
 ## Integrantes
 
