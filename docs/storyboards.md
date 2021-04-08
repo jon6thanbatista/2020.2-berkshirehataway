@@ -15,7 +15,6 @@
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/storyboard1.jpg)
 
 ### Tabela de versionamento
-<br>
 
 	Data     |Versão        | Descrição                    | Responsável 
 	07/04/21 |   1.0        | Elaboração do documento      | Rafael

@@ -26,10 +26,9 @@ _______________________________(Assinatura do entrevistado)<br>
  
 
 ### Tabela de versionamento
-<br>
 
-    Data     | Versão      |       Descrição                                              | Responsável 
-07/04/21   | 1.0            | Elaboração do termo de consentimento     | Antonio Ruan
+    Data       | Versão         |       Descrição                          | Responsável 
+	07/04/21   | 1.0            | Elaboração do termo de consentimento     | Antonio Ruan
 <br>
 
 #### Referências: <br>

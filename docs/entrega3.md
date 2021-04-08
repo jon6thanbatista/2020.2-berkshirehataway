@@ -24,7 +24,6 @@ Para iniciar as entrevistas foi elaborado um termo de consentimento para que a e
 A escolha das pessoas que irão responder o formulário foi feita com base no perfil de usuário traçado na etapa anterior do projeto.
 
 ### Perguntas
-<br>
 
 	Índice  | Perguntas
 	------- | ---------- 
@@ -45,10 +44,9 @@ A escolha das pessoas que irão responder o formulário foi feita com base no pe
 	15      | Como você acessa as novas releases?
 
 ### Tabela de versionamento
-<br>
 
-Data     | Versão      | Descrição                | Responsável 
-07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
+	Data     | Versão      | Descrição                | Responsável 
+	07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
 <br>
 
 #### Referências: 
@@ -79,7 +77,6 @@ elas se enquadrem ao perfil de usuário traçado anteriormente no projeto.
 Todas as conclusões tomadas mediante o formulário estão na documentação do projeto.
 
 ### Perguntas
-<br>
 
 	Índice  | Perguntas
 	---------- | ---------- 
@@ -93,7 +90,6 @@ Todas as conclusões tomadas mediante o formulário estão na documentação do 
 	8           | Existe alguma mudança que você sugeriria para o storyboard?
 
 ### Tabela de versionamento
-<br>
 
 	Data    | Versão     |Descrição                 | Responsável
 	07/04/21  | 1.0        |Elaboração do documento   | Nathan
