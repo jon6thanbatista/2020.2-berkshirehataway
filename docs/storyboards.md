@@ -12,12 +12,12 @@
     Nesse storyboard o boneco em palito representa a persona Archiballd Stuarti que é um investidor da Berkshire. Foi dada a ele a tarefa de buscar informações da empresa.
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/storyboard1.jpg)
 
 ### Tabela de versionamento
 <br>
 
-Data     |Versão        | Descrição                    | Responsável 
-07/04/21 |   1.0        | Elaboração do documento      | Rafael
-07/04/21 |   1.1        | Elaboração do storyboard 1   | Rafael
+	Data     |Versão        | Descrição                    | Responsável 
+	07/04/21 |   1.0        | Elaboração do documento      | Rafael
+	07/04/21 |   1.1        | Elaboração do storyboard 1   | Rafael
 
