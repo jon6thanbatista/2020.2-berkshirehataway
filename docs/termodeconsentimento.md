@@ -26,10 +26,11 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 <br>
 Brasília, 09/04/2021
 <br>
-_______________________________(Assinatura do entrevistador)<br>
+_______________________________(Assinatura do entrevistador)
 (Nome do entrevistador)
 <br>
-_______________________________(Assinatura do entrevistado)<br>
+
+_______________________________(Assinatura do entrevistado)
 (Nome do entrevistado)
 <br>
  
