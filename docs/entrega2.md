@@ -1,4 +1,4 @@
-#Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.
+#Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo
 
 -------------------------------------------------
 ##Princípios Gerais de Projeto

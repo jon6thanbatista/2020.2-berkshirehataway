@@ -5,5 +5,9 @@ site_description: "Um site para citarmos as melhorias so site da empresa Berkshi
 nav:
     - Home: index.md
     - Sobre: sobre.md
-    - Entrega1: entrega1.md
-    - Entrega2: entrega2.md
+    - Perfil do usuário, Personas e Análise de tarefas: entrega1.md
+    - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo: entrega2.md
+    - Planejamento da Avaliação e do relato dos resultados: entrega3.md
+    - Story Boards: storyboard.md
+    - Análise de tarefas: analisedetarefas.md
+    - Termo de consentimento: termodeconsentimento.md
