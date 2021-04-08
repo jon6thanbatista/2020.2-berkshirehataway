@@ -3,7 +3,6 @@
 -------------------------------------------------
 
 
-
 ## Planejamento da Avaliação e do relato dos resultados da análise de tarefas
 -------------------------------------------------
 
@@ -50,8 +49,10 @@ Data     | Versão      | Descrição                | Responsável
 07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
 
 #### Referências: 
-Interação Humano Computador
-https://www.berkshirehathaway.com/
+
+* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
+* Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.
 
 <br>
 <br>
@@ -97,7 +98,8 @@ Data     | Versão     | Descrição                | Responsável
 <br>
 
 #### Referências: 
-Interação Humano Computador
-https://www.berkshirehathaway.com/
 
+* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
+* Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.
 
