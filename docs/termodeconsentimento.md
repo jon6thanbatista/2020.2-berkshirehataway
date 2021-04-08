@@ -27,9 +27,9 @@ _______________________________(Assinatura do entrevistado)<br>
 
 ### Tabela de versionamento
 
-    Data       | Versão         |       Descrição                          | Responsável 
-	07/04/21   | 1.0            | Elaboração do termo de consentimento     | Antonio Ruan
+Data       | Versão         |       Descrição                          | Responsável 
+07/04/21   | 1.0            | Elaboração do termo de consentimento     | Antonio Ruan
 <br>
 
-#### Referências: <br>
+#### Referências:
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.

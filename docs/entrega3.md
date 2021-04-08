@@ -25,28 +25,28 @@ A escolha das pessoas que irão responder o formulário foi feita com base no pe
 
 ### Perguntas
 
-	Índice  | Perguntas
-	------- | ---------- 
-	1       | Qual seu nome?
-	2       | Qual sua idade?
-	3       | Qual seu nível de formação acadêmica?
-	4       | Qual curso você está fazendo?
-	5       | Você já utilizou o berkshirehathaway para alguma finalidade?
-	6       | Se sim, qual foi o propósito?
-	7       | Ao acessar o site, qual a sua primeira reação?
-	8       | Se foi negativa, explique o porquê.
-	9       | Ao acessar o site, qual a sua primeira impressão?
-	10      | Se foi negativa, explique o porquê.
-	11      | Como você faria uma busca no site por algo específico?
-	12      | Ao acessar algum link, como poderia voltar a página inicial para acessar outras coisas?
-	13      | Conseguiu encontrar todas as informações que queria no site?
-	14      | Se não, o que faltou?
-	15      | Como você acessa as novas releases?
+Índice  | Perguntas
+------- | ---------- 
+1       | Qual seu nome?
+2       | Qual sua idade?
+3       | Qual seu nível de formação acadêmica?
+4       | Qual curso você está fazendo?
+5       | Você já utilizou o berkshirehathaway para alguma finalidade?
+6       | Se sim, qual foi o propósito?
+7       | Ao acessar o site, qual a sua primeira reação?
+8       | Se foi negativa, explique o porquê.
+9       | Ao acessar o site, qual a sua primeira impressão?
+10      | Se foi negativa, explique o porquê.
+11      | Como você faria uma busca no site por algo específico?
+12      | Ao acessar algum link, como poderia voltar a página inicial para acessar outras coisas?
+13      | Conseguiu encontrar todas as informações que queria no site?
+14      | Se não, o que faltou?
+15      | Como você acessa as novas releases?
 
 ### Tabela de versionamento
 
-	Data     | Versão      | Descrição                | Responsável 
-	07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
+Data     | Versão      | Descrição                | Responsável 
+07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
 <br>
 
 #### Referências: 
@@ -78,21 +78,22 @@ Todas as conclusões tomadas mediante o formulário estão na documentação do 
 
 ### Perguntas
 
-	Índice  | Perguntas
-	---------- | ---------- 
-	1           | Qual seu nome?
-	2           | Qual sua idade?
-	3           | Qual seu nível de formação acadêmica?
-	4           | Você utiliza ou já utilizou o site do Berkshire Hathaway?
-	5           | Para qual propósito você utilizou? 
-	6           | O Storyboard condiz com a realidade?
-	7           | O fluxo do storyboard está feito de maneira correta?
-	8           | Existe alguma mudança que você sugeriria para o storyboard?
+Índice  | Perguntas
+------- | ---------- 
+1       | Qual seu nome?
+2       | Qual sua idade?
+3       | Qual seu nível de formação acadêmica?
+4       | Você utiliza ou já utilizou o site do Berkshire Hathaway?
+5       | Para qual propósito você utilizou? 
+6       | O Storyboard condiz com a realidade?
+7       | O fluxo do storyboard está feito de maneira correta?
+8       | Existe alguma mudança que você sugeriria para o storyboard?
 
 ### Tabela de versionamento
 
-	Data    | Versão     |Descrição                 | Responsável
-	07/04/21  | 1.0        |Elaboração do documento   | Nathan
+Data    | Versão     |Descrição                 | Responsável
+07/04/21  | 1.0        |Elaboração do documento   | Nathan
+<br>
 
 #### Referências: 
 Interação Humano Computador
