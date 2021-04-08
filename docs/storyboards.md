@@ -17,6 +17,7 @@
 ### Tabela de versionamento
 
 Data     |Versão        | Descrição                    | Responsável 
+-------- | --------     |-------------                 | --------
 07/04/21 |   1.0        | Elaboração do documento      | Rafael
 07/04/21 |   1.1        | Elaboração do storyboard 1   | Rafael
 
