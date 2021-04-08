@@ -46,8 +46,8 @@ A escolha das pessoas que irão responder o formulário foi feita com base no pe
 ### Tabela de versionamento
 
 Data     | Versão      | Descrição                | Responsável 
+-------- | --------    | -------------            | --------
 07/04/21 | 1.0         | Elaboração do documento  | Carla & Felipe
-<br>
 
 #### Referências: 
 Interação Humano Computador
@@ -91,8 +91,9 @@ Todas as conclusões tomadas mediante o formulário estão na documentação do 
 
 ### Tabela de versionamento
 
-Data    | Versão     |Descrição                 | Responsável
-07/04/21  | 1.0        |Elaboração do documento   | Nathan
+Data     | Versão     | Descrição                | Responsável
+-------- | --------   |-------------             | --------
+07/04/21 | 1.0        |Elaboração do documento   | Nathan
 <br>
 
 #### Referências: 
