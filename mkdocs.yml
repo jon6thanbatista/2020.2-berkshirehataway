@@ -1,13 +1,25 @@
-site_name: BerkshireHataway
+site_name: Berkshire-Hataway
 site_author: Grupo 5 IHC 2020.2
 site_description: "Um site para citarmos as melhorias so site da empresa BerkshireHataway"
 
-nav:
-    - Home: index.md
-    - Sobre: sobre.md
-    - Perfil do usuário, Personas e Análise de tarefas: entrega1.md
-    - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo: entrega2.md
-    - Planejamento da Avaliação e do relato dos resultados: entrega3.md
-    - Story Boards: storyboards.md
-    - Análise de tarefas: analisedetarefas.md
-    - Termo de consentimento: termodeconsentimento.md
+nav: 
+  - Home: index.md
+  - Análise dos Requisitos: 
+    - Guias de Estilo: Analise_de_requisitos/Guia_estilo.md
+    - Metas de usabilidade: Analise_de_requisitos/Metas_usabilidade.md
+    - Principios Gerais de Projeto: Analise_de_requisitos/Principios_gerais_projeto.md
+    - Perfil do usuário, Personas e Análise de tarefas: Analise_de_requisitos/entrega1.md
+  - Design, Avaliação e Desenvolvimento: 
+    - Nivel 1: 
+      - Storyboard: 
+        - Storyboard: Design_avaliacao_desenvolvimento/Nivel_1/Storyboard/storyboard.md
+        - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_1/Storyboard/Planejamento_storyboard.md
+      - Analise de tarefas: 
+        - Analise de tarefas: Design_avaliacao_desenvolvimento/Nivel_1/Analise_tarefas/analisedetarefas.md
+        - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_1/Analise_tarefas/Planejamento_analise_tarefas.md
+      - Termo de consentimento: Design_avaliacao_desenvolvimento/Nivel_1/termodeconsentimento.md
+    - Nivel 2: 
+      - Prototipo de papel: Design_avaliacao_desenvolvimento/Nivel_2/Planejamento_prototipo_papel.md
+      - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_2/Planejamento_prototipo_papel.md
+  - Sobre: sobre.md
+  

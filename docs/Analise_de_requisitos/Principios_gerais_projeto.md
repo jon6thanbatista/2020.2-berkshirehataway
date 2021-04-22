@@ -1,7 +1,4 @@
-#Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo
-
--------------------------------------------------
-##Princípios Gerais de Projeto
+#Princípios Gerais de Projeto
 <br>
 
 <h5>É necessário projetarmos o sistema utilizando um modelo conceitual que o usuário possa aprender rapidamente e sem dificuldade. O Modelo conceitual auxilia a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo. 
@@ -53,79 +50,5 @@ Segundo Reeves e Nass (1996), as pessoas dão tratamento humano para    qualquer
 Projetar para o erro nada mais é que observar os possíveis erros a serem cometidos e buscar minimizá-los. Além disso,deve haver também como se recuperar do erro cometido, informar ao usuário o que ocorreu, as consequências e como deve prosseguir para reverter os resultados indesejados.
 <br>
 
-#####Referências:
+###Referências:
 Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-
--------------------------------------------------
-
-##Metas de Usabilidade
-<br>
-
-#####A usabilidade visa a assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis na perspectiva do usuário. As metas de usabilidade são divididas em seis :
-<br>
-
-#####Eficácia
-A eficácia se refere a quanto um produto é bom em fazer o que se espera dele.
-Pergunta: O site permite que as pessoas realizem seu trabalho de forma eficiente ou acessem a  informação de que necessitam ?
-Meta aplicada no projeto: O site deve permitir que os usuário encontre informações acerca da empresa Berkshire Hathaway.
-
-#####Eficiência
-A eficiência refere-se à maneira como um produto auxilia os usuários na realização de suas tarefas.
-Pergunta: Os usuários conseguirão manter um alto nível de produtividade, uma vez que tenham aprendido como utilizar o produto para realizar suas tarefas ?
-Meta aplicada no projeto: O site deve fornecer atalhos e aceleradores, como teclas de atalho para itens de menu. Além disso, o site não deve interromper o usuário desnecessariamente enquanto o usuário estiver trabalhando em algo.
-
-#####Segurança
-A segurança envolve proteger o usuário de condições perigosas e situações indesejáveis.
-Pergunta: Qual é a gama de erros possíveis ao se utilizar o site e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente ?
-Meta aplicada no projeto: O sistema deve assumir que qualquer erro potencial será cometido, com isso deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
-
-#####Utilidade
-A utilidade refere-se à medida na qual o produto oferece o tipo certo de funcionalidade, de modo que os usuários possam fazer aquilo que precisam ou desejam.
-Pergunta: O site fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam ?
-Meta aplicada no projeto: O número de opções ou decisões que o usuário precisa tomar a cada instante deve ser mínimo. Além disso, o site deve oferecer uma barra de navegação agrupando seus tópicos.
-
-#####Capacidade de Aprendizagem
-A capacidade de aprendizagem refere-se à facilidade de aprender a usar um sistema.
-Pergunta: O usuário saberá usar o site explorando a interface e experimentando determinadas ações ? Será difícil aprender todo o conjunto de funções dessa maneira ?
-Meta aplicada no projeto: Para que o site contribua com a aprendizagem do usuário será acrescentado tutoriais rápidos de como utilizar as funcionalidades, caso essas não sejam intuitivas.
-
-#####Capacidade de memorização
-A capacidade de memorização refere-se à facilidade de lembrar como utilizar um sistema depois de já tê-lo aprendido.
-Pergunta: Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência ?
-Meta aplicada no projeto: Oferecer suportes da interface que ajudem a memorização de atividades a serem realizadas no site utilizando os princípios e diretrizes de padronização, visibilidade e reconhecimento de cada ação realizada.
-
--------------------------------------------------
-
-##Guia de Estilo
-<br>
-
-#####Objetivos do guia de estilo
-Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem como objetivo definir as regras que guiarão o design da interface da aplicação, no que diz respeito à interação com o usuário. Os padrões estabelecidos neste Guia servem para certificar que a consistência do design será mantida em todo o projeto.
-
-* simbolismo:
-
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/logo.jpeg)
-
-* cores:
-
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/cores.jpeg)
-
-* visualização de informação: design de gráficos, diagramas e mapas;
-
-Home page:
-
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/homepage.jpeg)
-
-Janelas:
-
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/janelas.jpeg)
-
-* tipografia e seu uso em diálogos, formulários e relatórios:
-
-	Fonte Times New Roman - tamanho 12
-
-	Letra Azul Escuro ou preto
-
-
-
-
