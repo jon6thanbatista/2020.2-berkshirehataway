@@ -11,15 +11,15 @@ nav:
     - Perfil do usuário, Personas e Análise de tarefas: Analise_de_requisitos/entrega1.md
   - Design, Avaliação e Desenvolvimento: 
     - Nivel 1: 
-      - Storyboard: 
+      - Parte 1: 
         - Storyboard: Design_avaliacao_desenvolvimento/Nivel_1/Storyboard/storyboard.md
         - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_1/Storyboard/Planejamento_storyboard.md
-      - Analise de tarefas: 
+      - Parte 2: 
         - Analise de tarefas: Design_avaliacao_desenvolvimento/Nivel_1/Analise_tarefas/analisedetarefas.md
         - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_1/Analise_tarefas/Planejamento_analise_tarefas.md
       - Termo de consentimento: Design_avaliacao_desenvolvimento/Nivel_1/termodeconsentimento.md
     - Nivel 2: 
-      - Prototipo de papel: Design_avaliacao_desenvolvimento/Nivel_2/Planejamento_prototipo_papel.md
+      - Prototipo de papel: Design_avaliacao_desenvolvimento/Nivel_2/Prototipo_papel.md
       - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_2/Planejamento_prototipo_papel.md
   - Sobre: sobre.md
   
