@@ -9,7 +9,7 @@ O objetivo deste documento é a elaboração do planejamento de avaliação e do
 ## Metodologia
 <br>
 A metodologia utilizada pelo grupo foi pelo formato de formulário. O formulário tem como objetivo avaliar a história da ilustração criada no documento de Storyboard de forma rápida e fácil.
-O formulário será compartilhado pelo e-mail devido às dificuldades enfrentadas em meio a pandemia causada pelo coronavírus. Fizemos um planejamento para que o tempo de resposta do formulário não ultrapasse 10 minutos.
+O formulário será compartilhado pelo e-mail, WhatsApp, Telegram e outros veículos de comunicação devido às dificuldades enfrentadas em meio a pandemia causada pelo coronavírus. Fizemos um planejamento para que o tempo de resposta do formulário não ultrapasse 10 minutos.
 
 ## Preparação
 <br>
