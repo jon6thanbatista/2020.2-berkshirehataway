@@ -12,13 +12,13 @@ Este método é utilizado principalmente quando é necessário avaliar o fluxo d
 ## Protótipo
 
 <br>
-Primeira parte | ![](https://github.com/Interacao-Humano-Computador/2020.2-Grupo5/blob/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%201.png)
+Primeira parte | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%201.png)
 
 
-Seguda parte | ![](https://github.com/Interacao-Humano-Computador/2020.2-Grupo5/blob/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%201.png)
+Seguda parte | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%202.png)
 
 
-Terceira parte | ![](https://github.com/Interacao-Humano-Computador/2020.2-Grupo5/blob/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%201.png)
+Terceira parte | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Prototipo_papel/Prot%C3%B3tipo%20de%20papel%203.png)
 <br>
 
 

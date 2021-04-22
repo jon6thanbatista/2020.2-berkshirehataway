@@ -23,7 +23,7 @@ O perfil de usuário utilizado foi o de Investidor. Segundo Nielsen, o número i
 ## Dados coletados
 
 <br>
-
+	![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Storyboard/Dados_storyboard.png)
 
 <br>
 
@@ -48,4 +48,4 @@ Os principais problemas encontrados foram:
 ## Planejamento para o re-projeto do sistema
 
 <br>
-Implementação de ferramentas para aumento da fonte, leitura de texto em áudio, 
+Implementação de ferramentas para aumento da fonte, leitura de texto em áudio, adição de tema escuro, monitoramento das ações das empresas do conglomerado.
