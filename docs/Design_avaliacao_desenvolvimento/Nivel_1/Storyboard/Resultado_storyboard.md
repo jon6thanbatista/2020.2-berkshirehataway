@@ -23,6 +23,8 @@ O perfil de usuário utilizado foi o de Investidor. Segundo Nielsen, o número i
 ## Dados coletados
 
 <br>
+
+
 <br>
 
 ## Relato da interpretação e análise dos dados
