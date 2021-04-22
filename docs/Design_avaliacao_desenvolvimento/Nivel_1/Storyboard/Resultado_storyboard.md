@@ -1,5 +1,7 @@
 # Resultado da avaliação Storyboard
 
+<br>
+
 ## objetivo da avaliação
 
 <br>
@@ -40,3 +42,8 @@ Os principais problemas encontrados foram:
 * O site não possui uma visualização eficiente dos documentos disponibilizados, pois para cada um deles é necessário abrir um pdf separadamente, o que dificulta o processo.
 * O site não possui nenhuma apresentação dele mesmo,e muito menos das empresas relacionadas, o que deixa muitas vezes os usuários perdidos sobre do que realmente se trata o site.
 <br>
+
+## Planejamento para o re-projeto do sistema
+
+<br>
+Implementação de ferramentas para aumento da fonte, leitura de texto em áudio, 
