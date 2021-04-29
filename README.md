@@ -14,6 +14,4 @@ Nathan Fernandes Sales de serra - 17/0112004
 
 Rafael Berto Pereira - 18/0108344
 
-Teste
-
 
