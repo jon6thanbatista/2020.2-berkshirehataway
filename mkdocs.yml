@@ -1,7 +1,14 @@
 site_name: Berkshire-Hataway
 site_author: Grupo 5 IHC 2020.2
 site_description: "Um site para citarmos as melhorias so site da empresa BerkshireHataway"
-
+theme:
+  language: pt
+  palette:
+    primary: blue
+    accent: green
+  logo: assets/favicon.png
+  favicon: images/favicon.png
+  name: material
 nav: 
   - Home: index.md
   - Análise dos Requisitos: 
