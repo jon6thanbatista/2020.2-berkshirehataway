@@ -1,6 +1,8 @@
 # 2020.2-berkshirehataway
 
-![Imagem 1](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/BHHS_Lockup_LogoQuality_Seal.jpg)
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/BHHS_Lockup_LogoQuality_Seal.jpg)
+
 
 Integrantes                 |    Foto       | E-mail/GIT
  ------------------------   | -----------   | -----------
