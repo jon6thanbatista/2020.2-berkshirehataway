@@ -4,8 +4,8 @@ theme:
   palette:
     primary: blue
     accent: green
-  logo: img/favicon.jpg
-  favicon: img/favicon.jpg
+  logo: img/earth.png
+  favicon: img/earth.png
   name: material
 nav: 
   - Home: index.md
