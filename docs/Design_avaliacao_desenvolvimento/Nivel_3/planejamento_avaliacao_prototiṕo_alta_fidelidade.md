@@ -31,6 +31,19 @@ O objetivo do protótipo do alta-fidelidade é visualizar a aparência do produt
 
 ## Perguntas
 
+<br>
+Perguntas a serem respondidas:
+
+* O site é interativo?
+
+* Falta alguma funcionalidade?
+
+* Conseguiu encontrar as informações que desejava?
+
+* O site possui uma boa acessibilidade?
+
+* Sentiu falta de algo? se sim, o que foi?
+
 ## Metodologia
 
 <br>
@@ -65,7 +78,9 @@ Como a nossa metodologia não envolve a interação com os usuários do site, n�
 
 ## Referências
 <br>
-ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação. Bookman Editora, 2013.
+* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
+* Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.
 <br>
 
 ## Versionamento

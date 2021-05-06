@@ -78,6 +78,19 @@ Para a coleta dos resultados, foram utilizados 3 (três) avaliadores, cada um pr
 <br>
 
 ## Análise dos dados
+<br>
+O relato da interpretação e análise dos dados serão divididos nos seguintes tópicos:
+
+* apropriação da tecnologia pelos usuários:
+Os usuários interagem com facilidade com o site e são motivados a explorarem novas funcionalidades no site.
+    
+* ideias e alternativas de design:
+A principal alternativa de design apontada pelos avaliadores foi acrescentar uma parte de ajuda ao usuário para que ele entenda o que cada página do site oferece.
+
+* conformidade  com um padrão:
+O site segue uma conformidade com um padrão, o padrão de acessibilidade seguido é de acordo com o W3C.
+
+<br>
 
 ## Problemas Encontrados
 
@@ -92,7 +105,7 @@ De acordo com todos os dados coletados, os problemas de maior para menor severid
 * Falta alguma parte de ajuda na documentação do site.
 <br>
 
-## Austes a serem feitos
+## Ajustes a serem feitos
 
 <br>
 Os principais ajustes a serem feitos giram em torno dos problemas relatados, que seriam:
@@ -106,15 +119,18 @@ Os principais ajustes a serem feitos giram em torno dos problemas relatados, que
 
 ## Referências
 <br>
-ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação. Bookman Editora, 2013.
-<br>
+* Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
+* Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.
+<br>
 ## Versionamento
 
 Tabela de versionamento
-Data     |Versão        | Descrição                                  | Responsável
-28/04   |        1.0         | Introdução, objetivos                 | Carla
-28/04   |        1.0         | Metodologia e dados coletados         | Carla, Felipe
-29/04   |        1.1         | Dados coletados                       | Nathan, Henrique e Carla
-29/04   |        1.1         | Problemas e Ajustes                   | Henrique
+
+Data     |Versão              | Descrição                             | Responsável
+-------- |          --------  |              -------------            | --------
+28/04    |        1.0         | Introdução, objetivos                 | Carla
+28/04    |        1.0         | Metodologia e dados coletados         | Carla, Felipe
+29/04    |        1.1         | Dados coletados                       | Nathan, Henrique e Carla
+29/04    |        1.1         | Problemas e Ajustes                   | Henrique
 
