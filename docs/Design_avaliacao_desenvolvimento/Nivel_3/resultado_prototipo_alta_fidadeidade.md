@@ -1,14 +1,29 @@
 # Resultados da Avaliação Protótipo de alta-fidelidade
 
+-------------------------------------------------
 ## Introdução
+<br>
+
+O protótipo de baixa-fidelidade não se aproxima muito ao produto final, são feitos com materiais mais baratos, pois se tratam normalmente do esboço do que se deseja para o projeto. Por serem simples e terem confecções rápidas e baratas permitem testar diferentes ideias, para assim avaliar o fluxo de informações e a navegação de um sistema e chegar a um resultado que garanta uma maior qualidade do sistema.
+Como protótipo de baixa-fidelidade utilizamos o protótipo de papel. O protótipo em papel é a representação gráfica de interfaces, podendo ter diferentes níveis de fidelidade. Isso é, o desenho a mão livre representa o esquema de telas do software que está em desenvolvimento, contendo textos e cores desejadas. Este tipo de protótipo em papel começa de maneira simples e ganha complexidade à medida que os usuários e a equipe de desenvolvimento interagem com o mesmo. 
+No presente documento será relatado os resultados da avaliação do protótipo de baixa fidelidade que fizemos. Desse modo, iremos percorrer o objetivo, o método desta avaliação, os dados coletados e sua análise.
+
 
 ## Objetivo da Avaliação
+<br>
+
+O objetivo é avaliar a apropriação de tecnologia pelos usuários, as ideias e alternativas de design, a conformidade com um padrão e problemas na interação e na interface.
 
 ## Metodologia Empregada
+<br>
+
+O método de avaliação do protótipo de papel será o método de avaliação por inspeção semiótica.
+Fundamentado na engenharia semiótica, o método de inspeção semiótica avalia a comunicabilidade de uma solução de IHC por meio de inspeção (de Souza et al., 2006; Prates e Barbosa, 2007; de Souza e Leitão, 2009; Seção 3.8). O objetivo da inspeção semiótica é avaliar a qualidade da emissão da metacomunicação do designer codificada na interface. Portanto, não é necessário envolver usuários nessa avaliação.
+
 
 ## Dados coletados / Interpretação
-
 <br>
+
 Para a coleta dos resultados, foram utilizados 3 (três) avaliadores, cada um produzindo uma lista com os problemas encontrados, indicando, para cada um:
 
 * local onde ocorre;
@@ -89,6 +104,17 @@ Os principais ajustes a serem feitos giram em torno dos problemas relatados, que
 * Inserir alguma ajuda para o usuário na documentação do site.
 <br>
 
+## Referências
+<br>
+ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação. Bookman Editora, 2013.
+<br>
+
 ## Versionamento
 
-## Referências
+Tabela de versionamento
+Data     |Versão        | Descrição                                  | Responsável
+28/04   |        1.0         | Introdução, objetivos                 | Carla
+28/04   |        1.0         | Metodologia e dados coletados         | Carla, Felipe
+29/04   |        1.1         | Dados coletados                       | Nathan, Henrique e Carla
+29/04   |        1.1         | Problemas e Ajustes                   | Henrique
+

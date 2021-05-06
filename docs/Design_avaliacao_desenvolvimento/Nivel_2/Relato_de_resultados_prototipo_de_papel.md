@@ -36,16 +36,16 @@ A avaliação do protótipo de baixa fidelidade foi realizada por três avaliado
 
 
 #### apropriação de tecnologia pelos usuários
-
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/tabela_apropria%C3%A7%C3%A3o_tecnologia.png)
 
 #### ideias e alternativas de design
-
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/tabela_ideias_alternativas_design.png)
 
 #### conformidade com um padrão
-
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/tabela_conformidade_padrao.png)
 
 #### problemas na interação e na interface
-
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/tabela_problemas_iteraco_interface.png)
 <br>
 
 ## Relato da interpretação e análise dos dados
@@ -86,16 +86,16 @@ Os principais ajustes a serem feitos giram em torno dos problemas relatados, que
 * Criação de um pop-up informativo sobre as novas funcionalidades implementadas que estão disponíveis para uso.
 <br>
 
-### Referências
+## Referências
 
 <br>
 ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação. Bookman Editora, 2013.
 <br>
 
-### Tabela de versionamento
+## Tabela de versionamento
 Data    |Versão        | Descrição                        | Responsável
 --------|-------       |------------------                |-------------
 28/04   |       1.0    | Introdução, objetivos            | Carla
 28/04   |       1.0    | Metodologia e dados coletados    | Carla
 29/04   |       1.1    | Dados coletados                  | Nathan, Henrique e Carla
-29/04   |       1.1    | Problemas e Ajustes              | Henrique
+29/04   |       1.1    | Problemas e Ajustes              | Henrique, Felipe

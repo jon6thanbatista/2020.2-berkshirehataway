@@ -1,7 +1,6 @@
 # Planejamento de Avaliação Protótipo de alta-fidelidade
 
-
-
+-------------------------------------------------
 ## Introdução
 
 <br>
@@ -64,6 +63,16 @@ Para avaliar o prototipo de alta-fidelidade nós utilizaremos a avaliação por 
 Como a nossa metodologia não envolve a interação com os usuários do site, não é necessário nenhum termo de consentimento.
 <br>
 
+## Referências
+<br>
+ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. Design de Interação. Bookman Editora, 2013.
+<br>
+
 ## Versionamento
 
-## Referências
+Data     |     Versão                  |              Descrição                 | Responsável
+-------- |          --------           |              -------------             | --------
+28/04|21 |   1.1                       | Introdução e objetivos                 |  Carla, Felipe
+29/04|21 |   1.2                       | Definição do método da avaliação       | Antonio Ruan
+29/04|21 |   1.3                       | Dados coletados/Interpretação          | Henrique, Nathan, Antonio Ruan
+29/04|21 |   1.2                       | Relato dos resultados                  | Antonio Ruan
