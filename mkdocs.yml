@@ -1,12 +1,5 @@
 site_name: Berkshire-Hataway
-theme:
-  language: pt
-  palette:
-    primary: blue
-    accent: green
-  logo: img/earth.png
-  favicon: img/earth.png
-  name: material
+
 nav: 
   - Home: index.md
   - Análise dos Requisitos: 
@@ -27,6 +20,9 @@ nav:
     - Nivel 2: 
       - Prototipo de papel: Design_avaliacao_desenvolvimento/Nivel_2/Prototipo_papel.md
       - Planejamento da avaliação: Design_avaliacao_desenvolvimento/Nivel_2/Planejamento_prototipo_papel.md
-      - Relato dos resultados: Relato_de_resultados_prototipo_de_papel.md
+      - Relato dos resultados: Design_avaliacao_desenvolvimento/Nivel_2/Relato_de_resultados_prototipo_de_papel.md
+    - Nível 3:
+      - Planejamento de avaliação: Design_avaliacao_desenvolvimento/Nivel_3/planejamento_avaliacao_prototiṕo_alta_fidelidade.md
+      - Relato dos Resultados: Design_avaliacao_desenvolvimento/Nivel_3/resultado_prototipo_alta_fidadeidade.md
   - Sobre: sobre.md
   

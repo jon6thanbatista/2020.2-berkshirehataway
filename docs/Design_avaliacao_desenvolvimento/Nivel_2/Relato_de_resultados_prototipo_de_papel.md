@@ -32,31 +32,37 @@ Fundamentado na engenharia semiótica, o método de inspeção semiótica avalia
 
 <br>   
 A avaliação do protótipo de baixa fidelidade foi realizada por três avaliadores, integrantes do grupo.
+
+
+
+#### apropriação de tecnologia pelos usuários
+
+
+#### ideias e alternativas de design
+
+
+#### conformidade com um padrão
+
+
+#### problemas na interação e na interface
+
 <br>
-
-### apropriação de tecnologia pelos usuários
-
-### ideias e alternativas de design;
-
-### conformidade com um padrão; 
-
-### problemas na interação e na interface. 
 
 ## Relato da interpretação e análise dos dados
 
 <br>
 O relato da interpretação e análise dos dados serão divididos nos seguintes tópicos:
 
-   *apropriação da tecnologia pelos usuários:
+* apropriação da tecnologia pelos usuários:
 Os usuários interagem com facilidade com o site e são motivados a explorarem novas funcionalidades no site.
     
-   *ideias e alternativas de design:
+* ideias e alternativas de design:
 A principal alternativa de design apontada pelos avaliadores foi acrescentar uma parte de ajuda ao usuário para que ele entenda o que cada página do site oferece.
 
-   *conformidade  com um padrão:
+* conformidade  com um padrão:
 O site segue uma conformidade com um padrão, o padrão de acessibilidade seguido é de acordo com o W3C.
 
-   *problemas na interação e na interface:
+* problemas na interação e na interface:
 O usuário consegue interagir com o site com certa fluidez e após as primeiras interações o usuário consegue aprender as funcionalidades rapidamente.
 <br>
 
@@ -71,13 +77,13 @@ Em geral, os problemas encontrados foram bem pontuais e relativamente pouco comp
 <br>
 Os principais ajustes a serem feitos giram em torno dos problemas relatados, que seriam:
 
-   *a implementação de um indicador de página atual, como por exemplo aumentar o tamanho ou mudar a cor do item respectivo do menu.
+* a implementação de um indicador de página atual, como por exemplo aumentar o tamanho ou mudar a cor do item respectivo do menu.
 
-   *Adicionar mais informações relevantes sobre cada release selecionada, sem que seja necessário clicar em uma release específica.
+* Adicionar mais informações relevantes sobre cada release selecionada, sem que seja necessário clicar em uma release específica.
 
-   *Adicionar um sistema de autocomplete para a barra de busca, o que facilita bastante a navegação e a usabilidade.
+* Adicionar um sistema de autocomplete para a barra de busca, o que facilita bastante a navegação e a usabilidade.
 
-   *Criação de um pop-up informativo sobre as novas funcionalidades implementadas que estão disponíveis para uso.
+* Criação de um pop-up informativo sobre as novas funcionalidades implementadas que estão disponíveis para uso.
 <br>
 
 ### Referências
