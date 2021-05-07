@@ -119,6 +119,7 @@ Os principais ajustes a serem feitos giram em torno dos problemas relatados, que
 
 ## Referências
 <br>
+
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 * Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.

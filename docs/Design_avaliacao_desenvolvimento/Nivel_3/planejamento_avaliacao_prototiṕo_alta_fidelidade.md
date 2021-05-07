@@ -78,6 +78,7 @@ Como a nossa metodologia não envolve a interação com os usuários do site, n�
 
 ## Referências
 <br>
+
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
 * Site oficial da Berkshire Hathaway. Disponível em <https://www.berkshirehathaway.com/> acesso em 7 de abril 2021.
