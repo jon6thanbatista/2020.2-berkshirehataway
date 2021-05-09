@@ -74,6 +74,12 @@ Para avaliar o prototipo de alta-fidelidade nós utilizaremos a avaliação por 
 Como a nossa metodologia não envolve a interação com os usuários do site, não é necessário nenhum termo de consentimento.
 <br>
 
+## Link Protótipo
+
+<br>
+Link para o protótipo de alta-fidelidade <https://www.figma.com/file/5RDux2fARYG28lpOlWR7FS/Site_BerkshireHatahway?node-id=0%3A1>
+<br>
+
 ## Referências
 <br>
 
