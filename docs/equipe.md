@@ -1,8 +1,6 @@
-#Sobre Nós
+# Membros da equipe:  
 
--------------------------------------------------
-
-### Nosso grupo conta com os seguintes integrantes:  
+<br>
 
 Integrantes                 |    Foto       | E-mail/GIT
  ------------------------   | -----------   | -----------

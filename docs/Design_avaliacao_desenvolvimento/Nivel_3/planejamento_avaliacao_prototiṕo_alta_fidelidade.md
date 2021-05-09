@@ -42,8 +42,6 @@ Perguntas a serem respondidas:
 
 * O site possui uma boa acessibilidade?
 
-* Sentiu falta de algo? se sim, o que foi?
-
 ## Metodologia
 
 <br>

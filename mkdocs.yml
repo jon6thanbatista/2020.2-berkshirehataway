@@ -1,20 +1,15 @@
 site_name: Berkshire-Hataway
-theme:
-  language: pt
-  palette:
-    primary: blue
-    accent: green
-  logo: img/earth.png
-  favicon: img/earth.png
-  name: material
+
 
 nav: 
   - Home: index.md
+  - Equipe: equipe.md
+  - Planejamento: planejamento.md
   - Análise dos Requisitos: 
-    - Guias de Estilo: Analise_de_requisitos/Guia_estilo.md
-    - Metas de usabilidade: Analise_de_requisitos/Metas_usabilidade.md
-    - Principios Gerais de Projeto: Analise_de_requisitos/Principios_gerais_projeto.md
     - Perfil do usuário, Personas e Análise de tarefas: Analise_de_requisitos/entrega1.md
+    - Principios Gerais de Projeto: Analise_de_requisitos/Principios_gerais_projeto.md
+    - Metas de usabilidade: Analise_de_requisitos/Metas_usabilidade.md
+    - Guias de Estilo: Analise_de_requisitos/Guia_estilo.md
   - Design, Avaliação e Desenvolvimento: 
     - Nivel 1: 
       - Parte 1: 
@@ -32,5 +27,6 @@ nav:
     - Nível 3:
       - Planejamento de avaliação: Design_avaliacao_desenvolvimento/Nivel_3/planejamento_avaliacao_prototiṕo_alta_fidelidade.md
       - Relato dos Resultados: Design_avaliacao_desenvolvimento/Nivel_3/resultado_prototipo_alta_fidadeidade.md
-  - Sobre: sobre.md
+  - Apresentações: apresentacoes.md
+
   

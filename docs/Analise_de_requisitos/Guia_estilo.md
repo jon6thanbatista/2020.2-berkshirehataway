@@ -1,7 +1,9 @@
-##Guia de Estilo
+# Guia de Estilo
 <br>
 
-#####Objetivos do guia de estilo
+## Objetivos do guia de estilo
+
+<br>
 Este documento apresenta um guia para o site da Berkshire. O Guia de Estilo tem como objetivo definir as regras que guiarão o design da interface da aplicação, no que diz respeito à interação com o usuário. Os padrões estabelecidos neste Guia servem para certificar que a consistência do design será mantida em todo o projeto.
 
 * simbolismo:
