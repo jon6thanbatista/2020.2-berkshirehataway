@@ -6,6 +6,7 @@ theme:
     accent: green
   logo: img/earth.png
   favicon: img/earth.png
+  name: material
 markdown_extensions:
   - attr_list
 
