@@ -57,13 +57,13 @@ Ferramentas                |    logo
  ------------------------  | ----------- 
 Google Meets               | ![]()
 Teams                      | ![]()
-Mkdocs                     | ![]()
-Github                     | ![]()
-Google drive               | ![]()
-WhatsApp                   | ![]()
-Telegram                   | ![]()
-Figma                      | ![]()
-Jamboard                   | ![]()
+Mkdocs                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/mkdocs.png?raw=true)
+Github                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/github.png?raw=true)
+Google drive               | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/drive.png?raw=true)
+WhatsApp                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/WhatsApp.png?raw=true)
+Telegram                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/telegram.png?raw=true)
+Figma                      | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/2bebacb86a0d488d854321abf688151ae41d9838/Imagens/planejamento/figma.svg)
+Jamboard                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/jamboard.png?raw=true)
 
 <br>
 
