@@ -1,5 +1,10 @@
-site_name: Berkshire-Hataway
-
+site_nametheme:
+  language: pt
+  palette:
+    primary: blue
+    accent: green
+  logo: img/earth.png
+  favicon: img/earth.png
 markdown_extensions:
   - attr_list
 

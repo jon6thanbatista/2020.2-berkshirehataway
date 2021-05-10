@@ -92,7 +92,7 @@ Link para o protótipo de alta-fidelidade <https://www.figma.com/file/5RDux2fARY
 
 Data     |     Versão                  |              Descrição                 | Responsável
 -------- |          --------           |              -------------             | --------
-28/04|21 |   1.1                       | Introdução e objetivos                 |  Carla, Felipe
-29/04|21 |   1.2                       | Definição do método da avaliação       | Antonio Ruan
-29/04|21 |   1.3                       | Dados coletados/Interpretação          | Henrique, Nathan, Antonio Ruan
-29/04|21 |   1.2                       | Relato dos resultados                  | Antonio Ruan
+28/04/21 |   1.1                       | Introdução e objetivos                 |  Carla, Felipe
+29/04/21 |   1.2                       | Definição do método da avaliação       | Antonio Ruan
+29/04/21 |   1.3                       | Dados coletados/Interpretação          | Henrique, Nathan, Antonio Ruan
+29/04/21 |   1.2                       | Relato dos resultados                  | Antonio Ruan
