@@ -19,7 +19,7 @@
 
 ####Archibald Stuarti  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Archibald.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/stuart.png?raw=true)
 
 Identidade: Archibald Stuarti - 58 anos
 
@@ -41,7 +41,7 @@ Expectativas: Retorno investimento em 10 anos.
 
 ####Cláudia Limeira  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Cl%C3%A1udia.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/Cl%C3%A1udia.png?raw=true)
 
 dentidade: Cláudia Limeira - 32 anos
 
@@ -63,7 +63,7 @@ Expectativas: Retorno do investimento em 5 anos (médio prazo).
 
 ####Mário José Silva  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/M%C3%A1rio%20Jos%C3%A9.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/Mario.png?raw=true)
 
 Identidade: Mário José Silva - 38 
 
@@ -85,7 +85,7 @@ Expectativas: Melhora na busca de informações sobre a empresa.
 
 ####Rogers Sandrey Siqueira  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Rogers.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/Rogers.png?raw=true)
 
 Identidade: Rogers Sandrey Siqueira - 45 anos
 
@@ -107,7 +107,7 @@ Expectativas: Espera melhorar a área de marketing e visual da empresa.
 
 ####Fernanda Ramalho  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Fernanda.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/Fernanda.png?raw=true)
 
 Identidade: Fernanda Ramalho - 34 anos
 
@@ -129,7 +129,7 @@ Expectativas: Tem o objetivo de melhorar o filtro de pessoas que procuram o site
 
 ####Roger Junior:  
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/Roger%20Junior.jpg)
+![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/personas/Roger.png?raw=true)
 
 Identidade: Roger Junior - 26 anos
 
