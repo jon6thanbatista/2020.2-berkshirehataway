@@ -57,13 +57,13 @@ Ferramentas                |    logo
  ------------------------  | ----------- 
 Google Meets               | ![]()
 Teams                      | ![]()
-Mkdocs                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/mkdocs.png?raw=true){: height="36px" width="36px"}
-Github                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/github.png?raw=true){: height="36px" width="36px"}
-Google drive               | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/drive.png?raw=true){: height="36px" width="36px"}
-WhatsApp                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/WhatsApp.png?raw=true){: height="36px" width="36px"}
-Telegram                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/telegram.png?raw=true){: height="36px" width="36px"}
-Figma                      | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/2bebacb86a0d488d854321abf688151ae41d9838/Imagens/planejamento/figma.svg){: height="36px" width="36px"}
-Jamboard                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/jamboard.png?raw=true){: height="36px" width="36px"}
+Mkdocs                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/mkdocs.png?raw=true){: style="height:150px;width:150px"}
+Github                     | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/github.png?raw=true){: style="height:150px;width:150px"}
+Google drive               | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/drive.png?raw=true){: style="height:150px;width:150px"}
+WhatsApp                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/WhatsApp.png?raw=true){: style="height:150px;width:150px"}
+Telegram                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/telegram.png?raw=true){: style="height:150px;width:150px"}
+Figma                      | ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/2bebacb86a0d488d854321abf688151ae41d9838/Imagens/planejamento/figma.svg){: style="height:150px;width:150px"}
+Jamboard                   | ![](https://github.com/Interacao-Humano-Computador/2020.2-berkshirehataway/blob/main/Imagens/planejamento/jamboard.png?raw=true){: style="height:150px;width:150px"}
 
 <br>
 
