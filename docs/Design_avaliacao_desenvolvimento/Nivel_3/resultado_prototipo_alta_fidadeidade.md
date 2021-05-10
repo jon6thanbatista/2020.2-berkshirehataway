@@ -4,9 +4,9 @@
 ## Introdução
 <br>
 
-O protótipo de baixa-fidelidade não se aproxima muito ao produto final, são feitos com materiais mais baratos, pois se tratam normalmente do esboço do que se deseja para o projeto. Por serem simples e terem confecções rápidas e baratas permitem testar diferentes ideias, para assim avaliar o fluxo de informações e a navegação de um sistema e chegar a um resultado que garanta uma maior qualidade do sistema.
-Como protótipo de baixa-fidelidade utilizamos o protótipo de papel. O protótipo em papel é a representação gráfica de interfaces, podendo ter diferentes níveis de fidelidade. Isso é, o desenho a mão livre representa o esquema de telas do software que está em desenvolvimento, contendo textos e cores desejadas. Este tipo de protótipo em papel começa de maneira simples e ganha complexidade à medida que os usuários e a equipe de desenvolvimento interagem com o mesmo. 
-No presente documento será relatado os resultados da avaliação do protótipo de baixa fidelidade que fizemos. Desse modo, iremos percorrer o objetivo, o método desta avaliação, os dados coletados e sua análise.
+O protótipo de alta-fidelidade se aproxima muito ao produto final, pois são feitos com materiais que se espera que estejam presentes no mesmo. Por isso, normalmente são muito trabalhosos, demorados e caros.  
+
+Na confecção do protótipo de alta fidelidade de um software é necessário utilizar outro software, para esse projeto usamos a ferramenta figma.
 
 
 ## Objetivo da Avaliação
@@ -17,14 +17,12 @@ O objetivo é avaliar a apropriação de tecnologia pelos usuários, as ideias e
 ## Metodologia Empregada
 <br>
 
-O método de avaliação do protótipo de papel será o método de avaliação por inspeção semiótica.
-Fundamentado na engenharia semiótica, o método de inspeção semiótica avalia a comunicabilidade de uma solução de IHC por meio de inspeção (de Souza et al., 2006; Prates e Barbosa, 2007; de Souza e Leitão, 2009; Seção 3.8). O objetivo da inspeção semiótica é avaliar a qualidade da emissão da metacomunicação do designer codificada na interface. Portanto, não é necessário envolver usuários nessa avaliação.
-
+Para avaliar o prototipo de alta-fidelidade nós utilizaremos a avaliação por inspeção, mais especificamente, a avaliação heurística. Esse método de avaliação orienta os avaliadores a inspecionar sistematicamente a interface em busca de problemas que prejudiquem a usabilidade.  A avaliação heurística possui como base um conjunto de diretrizes de usabilidade, que descrevem características desejáveis da interação e da interface, chamadas por Nielsen de heurísticas.
 
 ## Dados coletados / Interpretação
 <br>
 
-Para a coleta dos resultados, foram utilizados 3 (três) avaliadores, cada um produzindo uma lista com os problemas encontrados, indicando, para cada um:
+Nielsen recomenda que uma avaliação heurística envolva de três a cinco avaliadores. Com isso, foram selecionados 3 (três) avaliadores, sendo todos eles graduandos de Engenharia de Software na Universidade de Brasília (UnB), com idade média de 22 anos e integrantes do grupo do presente projeto. Dentre os avaliadores, o Henrique, se encaixa no perfil de usuário do site. Cada um produziu uma lista com os problemas encontrados, indicando para cada um:
 
 * local onde ocorre;
 * descrição do problema; 

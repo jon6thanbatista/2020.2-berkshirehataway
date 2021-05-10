@@ -1,6 +1,6 @@
 # Planejamento da Avaliação e do relato dos resultados da análise de tarefas
--------------------------------------------------
 
+-------------------------------------------------
 ## Introdução
 <br>
 A análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles realizam e por quê. Na última entrega foi realizada a análise de tarefas com o auxílio do método  HTA - Hierarchical Task Analysis. 
