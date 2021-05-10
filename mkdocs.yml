@@ -1,4 +1,5 @@
-site_nametheme:
+site_name: Berkshire-Hataway
+theme:
   language: pt
   palette:
     primary: blue
