@@ -78,6 +78,12 @@ A fase de design, avaliação e desenvolvimento tem por objetivo conceber uma so
 
 Na fase de instalação, o design deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
 
+Uma alternativa a isso é o ciclo de vida em estrela desenvolvido por Hix e Hartson, esse processo é composto por seis atividades, conforme ilustrado abaixo:
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/planejamento/estrela.png)
+
+No ciclo de vida em estrela, cabe ao designer decidir qual atividade deve ser realizada primeiro, dependendo do que estiver disponível quando iniciar o processo. Por exemplo, se a intenção for projetar uma nova versão do sistema, o designer pode começar o projeto da nova versão pela avaliação da versão atual. Em outro caso, pode ser necessário implementar o mesmo sistema em outra plataforma semelhante, como outro sistema operacional, por exemplo. Sendo assim, o designer pode optar por co- meçar pela implementação do sistema, aproveitando o projeto que havia sido feito para a plataforma anterior. Para projetar um novo sistema, é comum começar pela análise de tarefas, usuários e funcional e seguir no sentido horário pelas atividades.
+
 <br>
 
 ## Cronograma
