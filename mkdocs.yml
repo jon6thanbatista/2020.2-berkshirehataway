@@ -11,7 +11,7 @@ markdown_extensions:
   - attr_list
 
 nav: 
-  - Home teste: index.md
+  - Home: index.md
   - Equipe: equipe.md
   - Planejamento: planejamento.md
   - Análise dos Requisitos: 
