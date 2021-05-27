@@ -70,7 +70,9 @@ Jamboard                   | ![](https://github.com/Interacao-Humano-Computador/
 ## Processos de Design
 
 <br>
-O processo que escolhemos foi Engenharia de Mayhew. Com uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa. A figura acima apresenta as três fases desse processo iterativo: análise de requisitos, design/avaliação/desenvolvimento e instalação.
+O processo que escolhemos foi Engenharia de Mayhew. O motivo dessa escolha se dar por esse processo ter uma visão holística, que reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa, além de se encaixar melhor com a nossa ideia de projeto, após essa explicação será mostrada uma alternativa, o clico de vida em estrela. A figura abaixo apresenta as três fases desse processo iterativo: análise de requisitos, design/avaliação/desenvolvimento e instalação
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/planejamento/mayhew.png)
 
 Na fase de análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.
 
@@ -82,7 +84,17 @@ Uma alternativa a isso é o ciclo de vida em estrela desenvolvido por Hix e Hart
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/planejamento/estrela.png)
 
+A análise de tarefas, de usuário e funções é a atividade responsável pelo aprendiza- do da situação atual e pelo levantamento das necessidades e oportunidades de melho- ria. A atividade de especificação de requisitos de IHC consolida uma interpretação da análise, definindo os problemas que devem ser resolvidos com o projeto de uma solução de IHC.
+
+A atividade geral de síntese é segmentada em três atividades: projeto conceitual e especificação do design, na qual a solução de IHC é concebida; prototipação, na qual versões interativas das propostas de solução são elaboradas para serem avalia- das; e implementação, na qual o sistema interativo final é desenvolvido. Essa última atividade está fora do escopo deste livro, pois já é abordada extensamente na literatu- ra de Engenharia de Software.
+
+A atividade de avaliação aparece no modelo como central, e é de fato desdobra- da na avaliação dos resultados de cada uma das demais atividades.
+
+A avaliação deve verificar se os dados coletados na atividade de análise e os requisitos especificados estão de acordo com a realidade e atendem às necessidades dos usuários. Deve tam- bém detectar problemas de usabilidade nas representações de design, nos protótipos e no sistema final. Hix e Hartson ressaltam que é importante avaliar o que foi produzido desde o início, enquanto ainda há tempo para corrigir os erros com um custo reduzido.
+
 No ciclo de vida em estrela, cabe ao designer decidir qual atividade deve ser realizada primeiro, dependendo do que estiver disponível quando iniciar o processo. Por exemplo, se a intenção for projetar uma nova versão do sistema, o designer pode começar o projeto da nova versão pela avaliação da versão atual. Em outro caso, pode ser necessário implementar o mesmo sistema em outra plataforma semelhante, como outro sistema operacional, por exemplo. Sendo assim, o designer pode optar por co- meçar pela implementação do sistema, aproveitando o projeto que havia sido feito para a plataforma anterior. Para projetar um novo sistema, é comum começar pela análise de tarefas, usuários e funcional e seguir no sentido horário pelas atividades.
+
+Esse ciclo também é iterativo e não prescreve a sequência das atividades. A única exigência aqui é que, após concluir cada atividade, o designer avalie os resultados obtidos para verificar se ele encontrou ou está no caminho de encontrar uma solução satisfatória. Todas as atividades do ciclo de vida em estrela estão interligadas pela atividade de avaliação, ou seja, sempre é preciso passar por uma avaliação ao concluir uma atividade e antes de iniciar outra.
 
 <br>
 
