@@ -20,7 +20,7 @@ A escolha das pessoas que irão responder o formulário foi feita com base no pe
 ## Perguntas
 
 Índice  | Perguntas
-------- | ---------- 
+------- | ----------
 1       | Qual seu nome?
 2       | Qual sua idade?
 3       | Qual seu nível de formação acadêmica?
