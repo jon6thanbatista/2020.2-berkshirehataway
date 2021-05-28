@@ -86,6 +86,10 @@ Os principais ajustes a serem feitos giram em torno dos problemas relatados, que
 * Criação de um pop-up informativo sobre as novas funcionalidades implementadas que estão disponíveis para uso.
 <br>
 
+## Protótipo com algumas correções 
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/prototipo_corrigido.png)
+
 ## Referências
 
 <br>
