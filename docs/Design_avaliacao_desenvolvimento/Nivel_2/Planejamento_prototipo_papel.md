@@ -62,11 +62,20 @@ O método de avaliação do protótipo de papel será o método de avaliação p
 Fundamentado na engenharia semiótica, o método de inspeção semiótica avalia a comunicabilidade de uma solução de IHC por meio de inspeção (de Souza et al., 2006; Prates e Barbosa, 2007; de Souza e Leitão, 2009; Seção 3.8). O objetivo da inspeção semiótica é avaliar a qualidade da emissão da metacomunicação do designer codificada na interface. Portanto, não é necessário envolver usuários nessa avaliação.
 <br>
 
-## Questões Éticas
+## Preparação
 
-<br>
-Como a nossa metodologia não envolve a interação com os usuários do site, não é necessário nenhum termo de consentimento.
-<br>
+Os perfis de usuário que serão ulizidados são de investidores da Berkshire Hathaway, de próprios funcionário da empresa, de investidores das empresas conglomeradas e também de clientes que utilizaram serviços tanto da Berskshire quanto das outras empresas afiliadas.
+
+Os objetivos principais dessa avaliação são:
+
+* Verificar se o usuário está utilizando o sistema da forma esperada.
+* Se o usuário utiliza outras funções do site por curiosidade e motivação.
+* Se o usuário atingiu o objetivo do acesso ao site.
+* Quais interfaces e interações deixaram o usuário insatisfeito.
+
+As partes das interfaces que serão avaliadas são, em grande parte dos casos, a tela inicial (HomePage), a tela das Releases da empresa, a tela de sobre da empresa e também a navegação em geral do usuário entre essas telas.
+
+
 
 ## Versionamento
 
@@ -74,6 +83,8 @@ Como a nossa metodologia não envolve a interação com os usuários do site, n�
 Data     |Versão        | Descrição                    | Responsável
 ------   |-----------   |-------------------------     |-------------
 20/04/21 |   1.0        | Planejamento do protótipo em papel | Nathan
+27/05/21 |   1.1        | atividades do método de inspeção semiótica | Henrique
+
 <br>
 
 ## Referências

@@ -30,11 +30,18 @@ Fundamentado na engenharia semiótica, o método de inspeção semiótica avalia
 
 ## Dados coletados
 
+### Cenários de interação
+
+Os cenários de interação são ferramentas importantes para definir um contexto de uso e um conjunto de objetivos (ou intenções de comunica- ção) que os usuários desejam alcançar utilizando o sistema. Essas informações forne- cem ao avaliador melhores condições para identificar, interpretar e analisar os signos codificados na interface.
+
+Cenários utilizados: 
+
+* Archibald Stuarti, investidor importante da Berkshire Hathaway, utiliza o site para acompanhar e verificar o desempenho da empresa através das releases atuais e também anteriormente divulgadas. Esse material contém todas as informações necessárias para Archibald decidir se vai continuar sendo um investidor da empresa. No final do ano ele optou por fazer uma análise completa de todas a releases para decidir se continuaria investindo.
+
+* Rogers Sandrey Siqueira, gerente de marketing principal da Berkshire Hathaway, utiliza o site para promover estratégias de marketing para atrair novos clientes e investidores. Ele faz uso so site por completo, todas as funcionalidades e também todas as interfaces, para que o cliente sempre entenda perfeitamente suas expectativas. Todos mês ele se reune com novos clientes para demostrar os interesses da empresa e o site é um ponto fundamental de apresentação.
 <br>   
+
 A avaliação do protótipo de baixa fidelidade foi realizada por três avaliadores, integrantes do grupo.
-
-
-
 #### apropriação de tecnologia pelos usuários
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-berkshirehataway/main/Imagens/Prototipo_papel/tabela_apropria%C3%A7%C3%A3o_tecnologia.png)
 
@@ -69,7 +76,12 @@ O usuário consegue interagir com o site com certa fluidez e após as primeiras 
 ## Problemas encontrados
 
 <br>
-Em geral, os problemas encontrados foram bem pontuais e relativamente pouco complexos. Como, por exemplo, dependendo do fluxo de navegação, não era possível saber qual era a atual página do site. Além disso, a parte das releases possui informações muito rasas sobre determinada release, a barra de buscas não possui a funcionalidade de completar automaticamente e por fim não existe uma apresentação das funcionalidades novas, o que confunde a usabilidade.
+Em geral, os problemas encontrados foram bem pontuais e relativamente pouco complexos. Como, por exemplo:
+
+* Dependendo do fluxo de navegação, não era possível saber qual era a atual página do site.
+* A parte das releases possui informações muito rasas sobre determinada release.
+* A barra de buscas não possui a funcionalidade de completar automaticamente.
+* Não existe uma apresentação das funcionalidades novas, o que confunde a usabilidade.
 <br>
 
 ## Ajustes a serem feitos
