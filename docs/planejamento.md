@@ -70,7 +70,7 @@ Jamboard                   | ![](https://github.com/Interacao-Humano-Computador/
 ## Processos de Design
 
 <br>
-O processo que escolhemos foi Engenharia de Mayhew. O motivo dessa escolha se dar por esse processo ter uma visão holística, que reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa, além de se encaixar melhor com a nossa ideia de projeto, após essa explicação será mostrada uma alternativa, o clico de vida em estrela. A figura abaixo apresenta as três fases desse processo iterativo: análise de requisitos, design/avaliação/desenvolvimento e instalação
+O processo que escolhemos foi Engenharia de Mayhew. O motivo dessa escolha se da por esse processo ter uma visão holística, que reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa, além de se encaixar melhor com a nossa ideia de projeto, após essa explicação será mostrada uma alternativa, o clico de vida em estrela. A figura abaixo apresenta as três fases desse processo iterativo: análise de requisitos, design/avaliação/desenvolvimento e instalação
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/planejamento/mayhew.png)
 

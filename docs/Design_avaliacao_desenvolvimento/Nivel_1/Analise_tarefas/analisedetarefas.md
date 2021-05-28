@@ -18,7 +18,6 @@
 <br>
 
 ##O que é um diagrama HTA?
-<br>
 
 * Envolve quebrar uma tarefa em subtarefas, e estas em sub-sub-tarefas, e assim sucessivamente. Estas são agrupadas em planos que especificam como as tarefas são executadas na prática.
 
@@ -30,18 +29,55 @@
 <br>
 
 ###**Análise de tarefas 1**
-<br>
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/hta.jpeg)
 <br>
+
+##O que é um CTT?
+
+O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC (Paternò, 2000). Nesse modelo, existem quatro tipos de tarefas:
+
+* tarefas do usuário, realizadas fora do sistema;
+
+* tarefas do sistema, em que o sistema realiza um processamentos em interagir com o usuário;
+
+* tarefas interativas, em que ocorrem os diálogos usuário–sistema;
+
+* tarefas abstratas, que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição.
+
+Assim como na análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como “para considerar T1 como tendo sido realizada, as tarefas T2 e T3 de- vem ter sido realizadas”.
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt1.jpeg)
+
+Além da hierarquia, o CTT permite representar diversas relações entre as tarefas, que aumentam a expressividade da notação. Os significados dssas relações são os seguintes:
+
+* ativação: T1 >> T2 significa que a segunda tarefa (T2) só pode iniciar após a primeira tarefa (T1) terminar;
+* ativação com passagem de informação: T1 [ ] >> T2 especifica que, além de T2 só poder ser iniciada após T1, a informação produzida por T1 é passada para T2;
+* escolha (tarefas alternativas): T1 [] T2 especifica duas tarefas que estejam ha- bilitadas num momento, mas que, uma vez que uma delas é iniciada, a outra é desabilitada;
+* tarefas concorrentes: T1 ||| T2 especifica que as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo;
+* tarefas concorrentes e comunicantes: T1 | [ ] | T2 especifica que, além de as ta- refas poderem ser realizadas em qualquer ordem ou ao mesmo tempo, elas podem trocar informações;
+* tarefas independentes: T1 |=| T2 especifica que as tarefas podem ser realiza- das em qualquer ordem, mas quando uma delas é iniciada, precisa terminar para que a outra possa ser iniciada;
+* desativação: T1 [> T2 especifica que T1 é completamente interrompida por T2;
+* suspensão/retomada: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt2.jpeg)
+
+A Figura abaixo apresenta um exemplo de modelo de tarefas representado em CTT para um objetivo de marcar um compromisso em uma agenda.
+
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt3.jpeg)
+
+
+Dentre as vantagens do CTT com relação a outros modelos de tarefas, destacamos a possibilidade do registro explícito das relações entre as tarefas. Observamos que, uma vez que há tarefas interativas, do sistema e do usuário, o CTT vai além da aná- lise de tarefas tradicional para representar uma solução de design da interação. Uma desvantagem com relação a modelos especificamente projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamento de erros na interação usuário–sistema
+
 
 ### Tabela de versionamento
 
   Data    | Versão      | Descrição              | Responsável
 --------  | --------    | -------------          | --------
 07/04/21  | 1.0         | Elaboração da Análise  | Henrique
+27/05/21  | 1.1         | CTT					 | Henrique
 
-#### Referências: 
+#### Referências:
 
 * Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
