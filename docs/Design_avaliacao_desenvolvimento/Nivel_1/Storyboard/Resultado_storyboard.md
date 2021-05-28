@@ -16,7 +16,6 @@ Na nossa avaliação nós utilizamos a avaliação formativa que permite identif
 
 ## Número e o perfil de usuários e avaliadores que participaram da avaliação
 
-<br>
 O perfil de usuário utilizado foi o de Investidor. Segundo Nielsen, o número indicado de usuários é de cinco a doze, já a quantidade de avaliadores na avaliação heurística varia de três a cinco. No caso da nossa avaliação foram usados 6 usuários, que foram inspirados nas Personas do nosso projeto, já que o escopo é restrito para pessoas do nosso meio participarem. Em relação aos avaliadores, foram usados 3 integrantes do próprio grupo.
 <br>
 
@@ -27,16 +26,10 @@ O perfil de usuário utilizado foi o de Investidor. Segundo Nielsen, o número i
 
 <br>
 
-## Relato da interpretação e análise dos dados
+##Interpretação
+### Problemas encontrados
 
-<br>
-De acordo com os dados coletados percebemos que todas as pessoas utilizam o site, e a maioria das  pessoas desejam que mudanças sejam feitas.
-<br>
-
-## Problemas encontrados
-
-<br>
-Os principais problemas encontrados foram:
+Os principais problemas encontrados pelos avaliadores:
 
 * Falta de acessibilidade para diferentes tipos de necessidade, como pessoas que possuem dificuldade na visão, pois não há no site nenhum recurso de leitura de texto.
 * Falta de organização dos dados apresentados, dificultando a navegação entre as páginas e acesso aos conteúdos, o que torna a usabilidade do site muito precária.
@@ -45,7 +38,11 @@ Os principais problemas encontrados foram:
 * O site não possui nenhuma apresentação dele mesmo,e muito menos das empresas relacionadas, o que deixa muitas vezes os usuários perdidos sobre do que realmente se trata o site.
 <br>
 
-## Planejamento para o re-projeto do sistema
+## Relato dos resultados
 
-<br>
-Implementação de ferramentas para aumento da fonte, leitura de texto em áudio, adição de tema escuro, monitoramento das ações das empresas do conglomerado.
+###Sugestões de correção
+
+* Implementação de ferramentas para aumento da fonte
+* Leitura de texto em áudio
+* Adição de tema escuro
+* Monitoramento das ações das empresas do conglomerado.

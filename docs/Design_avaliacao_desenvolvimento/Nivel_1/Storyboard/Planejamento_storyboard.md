@@ -18,7 +18,19 @@ A escolha das pessoas que responderão o formulário, será feita de forma que s
 elas se enquadrem ao perfil de usuário traçado anteriormente no projeto.
 Todas as conclusões tomadas mediante o formulário estão na documentação do projeto.
 
-## Perguntas
+As principais tarefas a serem executadas giram em torno de:
+
+* Obter notícias da empresa
+* Conhecer melhor a empresa e obter mais informações
+* Conhecer os serviços fornecidos
+* Fazer análises de marketing da empresa
+* Decisão sobre investimentos relacionados à empresa
+
+Os perfis dos participantes é direcionado à investidores, funcionários da empresa e clientes das empresas afiliadas.
+
+## Coleta de dados
+
+###Perguntas
 
 Índice  | Perguntas
 ------- | ---------- 
@@ -36,6 +48,7 @@ Todas as conclusões tomadas mediante o formulário estão na documentação do 
 Data     | Versão     | Descrição                | Responsável
 -------- | --------   |-------------             | --------
 07/04/21 | 1.0        |Elaboração do documento   | Nathan
+27/05/21 | 1.0        |Alteração do documento    | Henrique
 <br>
 
 ## Referências: 
