@@ -47,7 +47,7 @@ O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criad
 
 Assim como na análise hierárquica de tarefas, os diferentes níveis hierárquicos devem ser lidos como “para considerar T1 como tendo sido realizada, as tarefas T2 e T3 de- vem ter sido realizadas”.
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt1.jpeg)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt1.png)
 
 Além da hierarquia, o CTT permite representar diversas relações entre as tarefas, que aumentam a expressividade da notação. Os significados dssas relações são os seguintes:
 
@@ -60,11 +60,11 @@ Além da hierarquia, o CTT permite representar diversas relações entre as tare
 * desativação: T1 [> T2 especifica que T1 é completamente interrompida por T2;
 * suspensão/retomada: T1 |> T2 especifica que T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 terminar.
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt2.jpeg)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt2.png)
 
 A Figura abaixo apresenta um exemplo de modelo de tarefas representado em CTT para um objetivo de marcar um compromisso em uma agenda.
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt3.jpeg)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-Grupo5/main/Imagens/ctt3.png)
 
 
 Dentre as vantagens do CTT com relação a outros modelos de tarefas, destacamos a possibilidade do registro explícito das relações entre as tarefas. Observamos que, uma vez que há tarefas interativas, do sistema e do usuário, o CTT vai além da aná- lise de tarefas tradicional para representar uma solução de design da interação. Uma desvantagem com relação a modelos especificamente projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamento de erros na interação usuário–sistema
