@@ -103,3 +103,4 @@ Data    |Versão        | Descrição                        | Responsável
 28/04   |       1.0    | Metodologia e dados coletados    | Carla
 29/04   |       1.1    | Dados coletados                  | Nathan, Henrique e Carla
 29/04   |       1.1    | Problemas e Ajustes              | Henrique, Felipe
+27/05   |       1.2    | Adição protótipo melhorado       | Henrique
